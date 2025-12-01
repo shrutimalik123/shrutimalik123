@@ -8,6 +8,6 @@ I am Shruti Malik.
 
 🚀 I am the founder of [DermAssist Ai](https://dermassist.org/) and [Pharma Landing](https://pharmalanding.net/).
 
-🌐 Check out my portfolio at [https://dev-shruti.vercel.app/](https://dev-shruti.vercel.app/).
+🌐 Check out my [portfolio](https://dev-shruti.vercel.app/).
 
-💎 Also check out some of my undeployed projects, the hidden gems at [https://the-undeployed-ones.vercel.app/](https://the-undeployed-ones.vercel.app/).
+💎 Also check out some of my [undeployed projects](https://the-undeployed-ones.vercel.app/), the hidden gems.
