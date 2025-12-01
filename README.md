@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**shrutimalik123/shrutimalik123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Shruti Malik.
+📍 Based in Omaha, NE, USA.
 
-Here are some ideas to get you started:
+🏥 I work at CVS Health.
+🎓 I get a tuition waiver via CVS to do my Masters in IT at Capella University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I am the founder of [DermAssist Ai](https://dermassist.org/) and [Pharma Landing](https://pharmalanding.net/).
+
+🌐 Check out my portfolio at [https://dev-shruti.vercel.app/](https://dev-shruti.vercel.app/).
+
+💎 Also check out some of my undeployed projects, the hidden gems at [https://the-undeployed-ones.vercel.app/](https://the-undeployed-ones.vercel.app/).
