@@ -6,7 +6,7 @@ I am Shruti Malik.
 🏥 I work at CVS Health.
 🎓 I get a tuition waiver via CVS to do my Masters in IT at Capella University.
 
-🚀 I am the founder of [DermAssist AI](https://dermassist.org/) and [Pharma Landing](https://pharmalanding.net/).
+🚀 I am the founder of [DermAssist AI](https://dermassist.org/) , [ Stuff All Data Scientists must know](https://web-builder--shrutisriram.replit.app) and [Pharma Landing](https://pharmalanding.net/).
 
 🌐 Check out my [portfolio](https://dev-shruti.vercel.app/).
 
