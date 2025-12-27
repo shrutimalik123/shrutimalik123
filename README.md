@@ -38,5 +38,5 @@ I am the founder and creator of the following platforms:
 ### 🌐 Portfolio & Projects
 * **[Main Portfolio](https://dev-shruti.vercel.app/)** – My full professional journey, skills, and experience.
 * **[The Undeployed Ones](https://the-undeployed-ones.vercel.app/)** – A collection of hidden gems and experimental projects.
-
-    
+* **[Kaggle Profile](https://www.kaggle.com/shrutimalik123)** – Exploring datasets, notebooks, and machine learning models in the data science community.
+* **[Devpost Profile](https://devpost.com/shrutimalik123)** – Showcasing my hackathon submissions and innovative software prototypes.
