@@ -15,6 +15,7 @@ I am the founder and creator of the following platforms:
   * **ClinRx:** For drug-drug interaction.
   * **Pharmtechtutor:** Flash cards and quiz of top 200 drugs for PTCB prep.
   * **RxSaverAI:** Find best pharmacy coupons in your area.
+Pharma Landing made it through first stage of valuations at Race to Revenue! Exciting times in coming weeks! 
 * **[Stuff All Data Scientists Must Know](https://web-builder--shrutisriram.replit.app)** – A practical guide and knowledge base for essential data science concepts and tools.
 
 ---
