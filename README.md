@@ -7,15 +7,8 @@
 ---
 
 ### 🚀 Founder
-I am the founder and creator of the following platforms:
+I am the founder of **[medtools.net](https://medtools.net)**, an AI-powered medical platform bringing together tools across pharmacy, dermatology, and pathology for clinicians, students, and healthcare professionals.
 
-* **[DermAssist AI](https://dermassist.org/)** – An AI-driven platform focused on accessible dermatological analysis and skin health.
-* **[Digital Atlas of Pathology](https://pathology-atlas-1--shrutisriram.replit.app)** – An atlas of synthetic Pathology slides.
-* **[Pharma Landing](https://pharmalanding.net/)** – A great Pharma App with 3 tools:
-  * **ClinRx:** For drug-drug interaction.
-  * **Pharmtechtutor:** Flash cards and quiz of top 200 drugs for PTCB prep.
-  * **RxSaverAI:** Find best pharmacy coupons in your area.
- 
 * **[Stuff All Data Scientists Must Know](https://web-builder--shrutisriram.replit.app)** – A practical guide and knowledge base for essential data science concepts and tools.
 
 ---
