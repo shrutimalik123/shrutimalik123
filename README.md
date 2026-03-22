@@ -22,6 +22,12 @@ I am the founder of **[medtools.net](https://medtools.net)**, an AI-powered medi
 
 ---
 
+### 📚 Publications
+* **[The Hospitalist](https://blogs.the-hospitalist.org/authors/shruti-malik-mbbs-mhsa)** – Contributor profile and articles on The Hospitalist.
+* **[Pharmacy Times](https://www.pharmacytimes.com/authors/shruti-malik-mbbs-mhsa-cpht)** – Author profile and pharmaceutical insights on Pharmacy Times.
+
+---
+
 ### 🎨 Fun Stuff I Have Made
 * **[Santa and Banta Comics](https://photos.google.com/share/AF1QipPBuKvHk3QgTmxI7xeO8x5uF7H3lg03fm_QZnbhnJEQ3--woj1D4tMVBDZ2Va7iIw?key=bFFrZ1BNbUhNMm5SLXBXMjNXOWV2cmhUNVJiMnJB)**
 * **[Shruti’s Poetry](https://photos.google.com/share/AF1QipPW1ZJgFi8ykxYtimf6IZOW7yf6cID33-LlRXiFbTwQniTSzDw72r_7qn9_HLSSlA?key=T0F3MWJoTy12YVFzS1B2d045OVg5MWNwRkVnRlR3)**
