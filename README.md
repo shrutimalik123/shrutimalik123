@@ -1,4 +1,4 @@
-# Hi there, I'm Shruti Malik 👋
+# Hi there, I'm Shruti Malik, MBBS. MHSA 👋
 
 📍 **Based in:** Omaha, NE, USA
 🏥 **Current Role:** CVS Health
