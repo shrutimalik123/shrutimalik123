@@ -40,3 +40,10 @@ I am the founder of **[medtools.net](https://medtools.net)**, an AI-powered medi
 * **[The Undeployed Ones](https://the-undeployed-ones.vercel.app/)** – A collection of hidden gems and experimental projects.
 * **[Kaggle Profile](https://www.kaggle.com/shrutimalik123)** – Exploring datasets, notebooks, and machine learning models in the data science community.
 * **[Devpost Profile](https://devpost.com/shrutimalik123)** – Showcasing my hackathon submissions and innovative software prototypes.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shrutimalik123&label=Profile%20Views&color=6366f1&style=flat" alt="shrutimalik123" />
+</p>
+
